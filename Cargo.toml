@@ -1,0 +1,12 @@
+[package]
+name = "earthquaked"
+version = "0.1.0"
+authors = ["Hirochika Matsumoto <git@hirochika.dev>"]
+edition = "2018"
+description = "An earthquake monitoring daemon"
+repository = "https://github.com/mhirochika/earthquaked"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
