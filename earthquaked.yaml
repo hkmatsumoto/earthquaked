@@ -1,0 +1,7 @@
+location:
+  region: jp
+  area: 東京 # Tokyo
+
+commands:
+  - echo hello
+  - echo bye
